@@ -1,0 +1,5 @@
+<import src="/components/uni-popup.vue.wxml" />
+<import src="/components/uni-icon.vue.wxml" />
+
+<template name="52c22636-default-52c22636-0"><view class="_view 52c22636 canvas-content"><canvas canvas-id="canvas-write" bindtouchstart="handleProxy" bindtouchend="handleProxy" bindtouchmove="handleProxy" class="_canvas 52c22636 cs" data-eventid="{{'52c22636-0'}}" data-comkey="{{$k}}"></canvas><view class="_view 52c22636 canvas-bottom"><button type="primary" bindtap="handleProxy" data-eventid="{{'52c22636-1'}}" data-comkey="{{$k}}" class="_button 52c22636">清除</button><button type="primary" bindtap="handleProxy" data-eventid="{{'52c22636-2'}}" data-comkey="{{$k}}" class="_button 52c22636">完成</button></view></view></template>
+
